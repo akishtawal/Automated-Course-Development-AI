@@ -12,6 +12,9 @@ Automated Course Development (ACD) Model is an AI-powered Streamlit application 
 - Download the entire course and quizzes as PDFs and PPTs.
 - Customize and modify the generated content.
 
+## High-Level Workflow
+![Workflow Image](./Model_Workflow.png)
+
 ## Getting Started
 
 Follow these steps to run the ACD application on your local system.
