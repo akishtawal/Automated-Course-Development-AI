@@ -20,6 +20,7 @@ This tool not only creates **comprehensive and customizable course content**, bu
 By leveraging advanced LLMs (like GPT and LLaMA), ACD streamlines the entire course design process — from planning to delivery — saving time while enhancing quality.
 
 At its core, the ACD pipeline operates through a series of **strategically orchestrated** LLM calls, utilizing **Chain of Thought (CoT)** reasoning and **few-shot prompting** techniques to ensure contextual continuity, pedagogical coherence, and content richness across modules. This layered generation process allows the model to iteratively refine outputs—creating course content that is not only structured but also pedagogically sound and logically progressive.
+
 ---
 
 ## 🌟 Features
