@@ -17,9 +17,9 @@ Empowering educators and content creators with AI-driven course design.
 The **Automated Course Development (ACD)** Model is an AI-powered Streamlit application designed for **SMEs, content creators, and educators**. The application is aimed at enabling effortless course creation by dynamically generating **course outlines, detailed modules, and quizzes** based on minimal user inputs such as *Course Name, Difficulty Level, and Number of Modules*.  
 
 This tool not only creates **comprehensive and customizable course content**, but also allows users to **download neatly formatted, module-wise, PDFs, PPTs, and Quizzes (as evaluation material)**.  
-By leveraging advanced LLMs (like GPT and LLaMA), ACD streamlines the entire course design process — from planning to delivery — saving time while enhancing quality.
+By leveraging advanced LLMs (like GPT and LLaMA), ACD streamlines the entire course design process - from planning to delivery - saving time while enhancing quality.
 
-At its core, the ACD pipeline operates through a series of **strategically orchestrated** LLM calls, utilizing **Chain of Thought (CoT)** reasoning and **few-shot prompting** techniques to ensure contextual continuity, pedagogical coherence, and content richness across modules. This layered generation process allows the model to iteratively refine outputs—creating course content that is not only structured but also pedagogically sound and logically progressive.
+At its core, the ACD pipeline operates through a series of **strategically orchestrated** LLM calls, utilizing **Chain of Thought (CoT)** reasoning and **few-shot prompting** techniques to ensure contextual continuity, pedagogical coherence, and content richness across modules. This layered generation process allows the model to iteratively refine outputs, creating course content that is not only structured but also pedagogically sound and logically progressive.
 
 ---
 
